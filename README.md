@@ -1,6 +1,6 @@
-# 🍔 The 7th Bite – Food Delivery Android App
+# 🍔 FoodOrderUp – Food Delivery Android App
 
-**The 7th Bite** is a fully functional food delivery application developed as part of an academic project for the Mobile Computing course at Air University, Multan Campus. Built using **Kotlin** in **Android Studio**, the app connects users with food vendors for smooth online ordering, payment, and delivery.
+**FoodOrderUp** is a fully functional food delivery application developed as part of an academic project for the Mobile Computing course at Air University, Multan Campus. Built using **Kotlin** in **Android Studio**, the app connects users with food vendors for smooth online ordering, payment, and delivery.
 
 ---
 
@@ -52,14 +52,5 @@
 ---
 
 ## 👤 Contributor
-
-- **Danish Butt (233606)**
-
----
-
-## 📅 Submission Info
-
-- **Course**: Mobile Computing  
-- **Instructor**: Sir Kaleem Razzaq  
-- **University**: Air University, Multan Campus  
-- **Submission Date**: 26th May 2025
+**Mualusi Ramaremisa (ST10125198)**
+**Rofhiwa Siaga (ST10382569)**
