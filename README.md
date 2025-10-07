@@ -52,5 +52,5 @@
 ---
 
 ## 👤 Contributor
-**Mualusi Ramaremisa (ST10125198)**
-**Rofhiwa Siaga (ST10382569)**
+- **Mualusi Ramaremisa (ST10125198)**
+- **Rofhiwa Siaga (ST10382569)**
