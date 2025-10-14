@@ -1,6 +1,6 @@
 # 🍔 FoodOrderUp – Food Delivery Android App
 
-**FoodOrderUp**is a fully functional food delivery application developed as part of an academic project for the Open Source Coding(Intermediate) Module(OPSC6312) at Rosebank College, Braamfontein Campus. Built using Kotlin in Android Studio, the app connects users with food vendors for smooth online ordering, payment, and delivery.
+**FoodOrderUp** is a fully functional food delivery application developed as part of an academic project for the Open Source Coding(Intermediate) Module(OPSC6312) at Rosebank College, Braamfontein Campus. Built using Kotlin in Android Studio, the app connects users with food vendors for smooth online ordering, payment, and delivery.
 
 ---
 
